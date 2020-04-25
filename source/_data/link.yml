@@ -1,0 +1,13 @@
+class:
+    class_name: Our Stores
+    link_list:
+      1:
+        name: Sasadashop
+        link: https://shopee.co.id/sasadashop
+        avatar: https://cf.shopee.co.id/file/96bcbcee42bead0225f1246d9204e868_tn
+        descr: Handphone Accessories
+      2:
+        name: bejana berkah 2 BKH
+        link: https://www.bukalapak.com/u/bejanaberkah2
+        avatar: https://s1.bukalapak.com/avt/61096322/small/logo_berkah.jpg
+        descr: Accessories Motor
